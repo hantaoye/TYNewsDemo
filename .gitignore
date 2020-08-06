@@ -158,11 +158,8 @@ xcuserdata
 # UNKNOWN: recommended by others, but I can't discover what these files are
 #
 # ...none. Everything is now explained.
-FITogether/Frameworks/3rdSDK/WechatSDK/libWeChatSDK.a
-FITogether/Frameworks/3rdSDK/WeiboSDK/libWeiboSDK.a
 Pods/
-TYDiary.xcodeproj/project.xcworkspace/xcshareddata/TYDiary.xccheckout
-TYDiary.xcworkspace/xcshareddata/TYDiary.xccheckout
 *.framework
 *.a
 *.ttf
+*roject.xcworkspace/xcshareddata
